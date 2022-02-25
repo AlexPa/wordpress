@@ -12,6 +12,7 @@
 	<meta name="keywords" content="">
 	<meta name="description" content="<?php bloginfo('description'); ?>">
 	<meta name="author" content="">
+    <meta name="yandex-verification" content="6d357a2db2986317" />
     <?php wp_head() ?>
 
     <?php /*<!-- bootstrap css -->
