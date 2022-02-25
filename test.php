@@ -10,6 +10,7 @@ $headers .= "Return-Path: mail@balumba.site\n"; // Return path for errors
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/html; charset=utf-8\n";
 
-$res = mail('a_l_e_x_1@inbox.ru', 'Theme', 'Message', $headers);
+//$res = mail('a_l_e_x_1@inbox.ru', 'Theme', 'Message', $headers);
+$res = mail('alexpa2011@yandex.ru', 'Theme', 'Message', $headers);
 
 var_dump($res);
